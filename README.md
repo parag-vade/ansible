@@ -21,6 +21,7 @@ Ansible is an open-source automation tool that simplifies configuration manageme
 
 
 **Inventory File Example (hosts)**
+
 ![image](https://github.com/user-attachments/assets/26237c3d-8888-41d5-b25b-a2bede210123)
 
 **Command to Run the Playbook:**
